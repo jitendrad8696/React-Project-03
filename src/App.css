@@ -1,0 +1,95 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-size: medium;
+}
+
+h1{
+  font-size: x-large;
+}
+
+
+body{
+  height: 100vh;
+  width: 100vw;
+}
+
+#main{
+  height: 100vh;
+  width: 100vw;
+  background-color: #98C1D9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#div1{
+  height: 50vh;
+  width: 90vw;
+  background-color: #6969B3;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+#div2{
+  height: 50vh;
+  width: 80vw;
+}
+
+#div3{
+  height: 25vh;
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#div4{
+  height: 15vh;
+  width: 80vw;
+  background-color: #4B244A;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2.5vw;
+}
+
+#div5{
+  height: 15vh;
+  width: 80vw;
+  background-color: #4B244A;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2.5vw;
+  padding-right: 2.5vw;
+}
+
+#div6{
+  display: flex;
+}
+
+
+button{
+  height: 15vh;
+  width: 20vw;
+  border-radius: 0px 20px 20px 0px;
+  border: none;
+  color: white;
+  background-color: #25171A;
+}
+
+
+.slider {
+  width: 10vw;
+  height: 15vh;
+  border-radius: 5px;  
+  background: #98C1D9;
+}
+
+
